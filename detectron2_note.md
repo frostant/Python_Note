@@ -81,7 +81,11 @@ checkpoint部分的知识好像被封装到fvcore里面
 
 
 
-# demo最后的三个函数
+# 预测函数
+
+
+
+# 显示预测结果的函数
 
 ## draw_panoptic_seg_predictions
 
